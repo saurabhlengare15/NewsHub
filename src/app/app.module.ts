@@ -21,6 +21,7 @@ import {MatDividerModule} from '@angular/material/divider';
 import {MatListModule} from '@angular/material/list';
 import {MatTableModule} from '@angular/material/table';
 import {MatCardModule} from '@angular/material/card';
+import { NotFoundComponent } from './not-found/not-found.component';
 
 
 @NgModule({
@@ -31,7 +32,8 @@ import {MatCardModule} from '@angular/material/card';
     SearchComponent,
     TagComponent,
     CartPageComponent,
-    FoodpageComponent
+    FoodpageComponent,
+    NotFoundComponent
   ],
   imports: [
     BrowserModule,
