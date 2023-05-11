@@ -1,0 +1,20 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+a{
+  font-size: 16px;
+}
+
+.logo{
+  text-decoration: none;
+  color: #fff;
+  font-size: 22px;
+}
+
+/* .navbar{
+  position: fixed;
+  top: 0;
+  overflow: hidden;
+  width: 100%;
+} */
